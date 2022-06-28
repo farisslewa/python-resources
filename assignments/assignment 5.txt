@@ -1,0 +1,6 @@
+1- handle the error thrown by the code below using try, except and finally by printing 'All Done'
+  x = 10
+  y = 0
+  z = x / y
+
+2- write a function that asks for integer and print its square, use while loop, try, execpt and else to account for an error

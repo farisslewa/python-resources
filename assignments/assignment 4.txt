@@ -1,0 +1,10 @@
+create bank account class that has two attributes:
+  * owner
+  * balance
+and three methods:
+  * deposit
+  * withdraw
+  * magic/dunder method to print your class instance
+
+Notes: withdraw may not exceed the available balance.
+instantiate your class make several deposit and withdraw to test your code

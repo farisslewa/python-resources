@@ -1,0 +1,8 @@
+1- having string 'hello' use indexing and reverse indexing to get the letter 'e'
+
+2- [1,2,[3,4,'dog']]  change the word 'dog' to 'cat'
+
+3- grap the word 'hello' from these dictionaries:
+  {'k':'hello'}
+  {'k1':{'k2':'hello'}}
+  {'k1':[1,2,{'k2':{'k3':'hello'}}]}
