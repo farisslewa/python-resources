@@ -15,7 +15,7 @@ print(list(range(0,11,2)))
 
 #3- use list comprehension to create a list of numbers from 0 to 50 that are divisible by 3
 
-mylist = [num for num in range(51) if num % 3 == 0]
+mylist = [num for num in range(1,51) if num % 3 == 0]
 print(mylist)
 
 
